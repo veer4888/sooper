@@ -5,8 +5,8 @@
 .apt_generated
 .classpath
 .factorypath
-.project
-.settings
+#.project    ## Manually allowed into git
+#.settings   ## Manually allowed into git
 .springBeans
 .sts4-cache
 
